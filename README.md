@@ -31,6 +31,12 @@ Use RTM to RPCS3
 ### [VRC Fish Macro](https://github.com/knms360/vrc-fish-macro)
 
 Macro for VRC Fish!
+
+## Status
+
+![Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 <!--
 **knms360/knms360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
