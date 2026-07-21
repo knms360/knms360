@@ -6,7 +6,7 @@ I'm a hobbyist and programmer from Japan.
 ### i can
 scratch, smali, hsp, [![Lua, JavaScript](https://skillicons.dev/icons?i=lua,js)](https://skillicons.dev)
 ### a little
-asm(arm64), [![CPlusPlus, Java, HTML](https://skillicons.dev/icons?i=lua,java,html,)](https://skillicons.dev)
+asm(arm64), [![CPlusPlus, Java, HTML](https://skillicons.dev/icons?i=cpp,java,html,)](https://skillicons.dev)
 ## Interests
 ### Cheat
 I Like Cheats. Therefore, I'm creating a cheat.
