@@ -8,19 +8,19 @@ scratch, smali, hsp, [![Lua, JavaScript](https://skillicons.dev/icons?i=lua,js)]
 ### a little
 asm(arm64), [![CPlusPlus, Java, HTML](https://skillicons.dev/icons?i=cpp,java,html,)](https://skillicons.dev)
 ## Interests
-### Cheat
-I Like Cheats. Therefore, I'm creating a cheat.
-### Hack
-If you like cheating, there’s no way you wouldn’t hack, right?
-Memory, Bootstrap, Injection...
 ### Reverse Engineering
-I recently learned how to read IDA. I like decompile.
-### Mod
-I have experience creating mods for Unity.
-### Macro
-I created macros to control Android devices, Windows applications, and games.
+I Like Cheat, Hack, Mod, Macro, Decompile ...and so on.
+
+I recently learned how to read IDA.
 ### Game
 I want to make a game someday.
+### 3D Model
+I've always wanted to create 3D models, and I've made a few using Tinkercad and Blockbench.
+### GUI Development
+Since I use C#, I enjoy creating GUIs.
+
+I'm always thinking about GUIs that prioritize user experience.
+
 
 ## Projects
 
