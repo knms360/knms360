@@ -28,9 +28,9 @@ I'm always thinking about GUIs that prioritize user experience.
 
 Use RTM to RPCS3
 
-### [VRC Fish Macro](https://github.com/knms360/vrc-fish-macro)
+### [EasyMemoryPatcher](https://github.com/knms360/EasyMemoryPatcher)
 
-Macro for VRC Fish!
+Memory Editor for Command line(.bat file)
 
 ## Status
 
